@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  6 09:17:31 2023
-
-@author: teiss
-"""
-
 import numpy as np
     
 def make_pu_labels(X,y,c=0.5,prob_true=None,label_scheme='scar',k=1):

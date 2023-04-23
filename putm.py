@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  7 08:47:26 2023
-
-@author: teiss
-"""
-
 import numpy as np
 from sklearn.base import BaseEstimator
 from utils import prepare_weighted_pu_data

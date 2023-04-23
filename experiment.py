@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb  6 08:57:46 2023
-
-@author: teiss
-"""
-import os
-
-
 from putm import PUbasic, PUtm
 import numpy as np
 import pandas as pd
